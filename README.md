@@ -15,6 +15,6 @@ This article delves into how artificial intelligence is being used to address cr
 **TEXBIZ 2025** is an initiative of the **BUTEX Business Club**, designed to foster innovation and insight at the intersection of technology, sustainability, and the textile industry.
 
 ## Author
-**Roaida Binta Ali**
+**Roaida Binta Ali** | 
 Electrical and Electronic Engineering (EEE) Student | KUET 
 
